@@ -1,0 +1,17 @@
+.containerSP{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+.img_spnb2{
+    padding-bottom: 20px;
+}
+.btn_spnb{
+    padding-bottom: 10px;
+}
+.SPNB{
+    text-align: center;
+}
+.container_spnb{
+    padding-top: 50px;
+}

@@ -1,0 +1,17 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,
+body {
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+.Loginform {
+    height: 100%;
+    color: 45;
+    color: deeppink;
+    background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

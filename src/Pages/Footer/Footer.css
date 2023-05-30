@@ -1,0 +1,36 @@
+.container_footer{
+    background-color: black;
+    height: 400px;
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    gap: 10px ;
+    margin-right: 30px ;
+    justify-items: center;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 50px;
+}
+.groupimg{
+    display: flex;
+    flex-direction: column;
+}
+.cl2_text{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.img_1{
+    background-color: aliceblue;
+    border-radius: 5px;
+  
+}
+.flex{
+    display: flex;
+}
+.pading{
+    padding: 8px;
+}
+.group_img1{
+    padding-top: 15px;
+}
